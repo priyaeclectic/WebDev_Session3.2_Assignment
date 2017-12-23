@@ -1,0 +1,27 @@
+.large{
+	color: white;
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size: 300%;
+    height: 150%;
+	overflow: scroll;
+}
+body{
+	background-image: url("https://static.pexels.com/photos/169193/pexels-photo-169193.jpeg");
+	background-repeat: no-repeat;
+}
+.nav {
+  background-color: #4B0082;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.nav a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  padding: 10px 15px;
+  font-size: 15px;
+}
